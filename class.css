@@ -1,0 +1,31 @@
+input:invalid {
+    border: 1px solid red;
+}
+
+input:valid {
+    background-color: #ddffdd;
+}
+
+.container {
+    padding: 100px 120px 150px 120px !important;
+}
+
+header {
+    height: auto;
+    width: 500px;
+    padding-left: 50px;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+span {
+    font-weight: bold !important;
+}
+
+/* pour changer le courseur qd mouseover mes tr */
+tr:hover {
+    cursor: pointer;
+}
